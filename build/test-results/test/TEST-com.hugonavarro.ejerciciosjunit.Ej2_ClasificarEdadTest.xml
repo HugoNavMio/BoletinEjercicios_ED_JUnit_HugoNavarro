@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hugonavarro.ejerciciosjunit.Ej2_ClasificarEdadTest" tests="7" skipped="0" failures="1" errors="0" timestamp="2026-04-01T17:21:36.988Z" hostname="HugoNavMio" time="0.037">
+  <properties/>
+  <testcase name="edadJuventud()" classname="com.hugonavarro.ejerciciosjunit.Ej2_ClasificarEdadTest" time="0.017"/>
+  <testcase name="edadInfancia()" classname="com.hugonavarro.ejerciciosjunit.Ej2_ClasificarEdadTest" time="0.004"/>
+  <testcase name="edadVejez()" classname="com.hugonavarro.ejerciciosjunit.Ej2_ClasificarEdadTest" time="0.001"/>
+  <testcase name="edadAdolescencia()" classname="com.hugonavarro.ejerciciosjunit.Ej2_ClasificarEdadTest" time="0.001"/>
+  <testcase name="edadNinyez()" classname="com.hugonavarro.ejerciciosjunit.Ej2_ClasificarEdadTest" time="0.001"/>
+  <testcase name="edadNegativa()" classname="com.hugonavarro.ejerciciosjunit.Ej2_ClasificarEdadTest" time="0.009">
+    <failure message="java.lang.IllegalArgumentException: Edad no válida" type="java.lang.IllegalArgumentException">java.lang.IllegalArgumentException: Edad no válida
+	at com.hugonavarro.ejerciciosjunit.Ej2_ClasificarEdad.clasificarEdad(Ej2_ClasificarEdad.java:6)
+	at com.hugonavarro.ejerciciosjunit.Ej2_ClasificarEdadTest.edadNegativa(Ej2_ClasificarEdadTest.java:10)
+</failure>
+  </testcase>
+  <testcase name="edadAdultez()" classname="com.hugonavarro.ejerciciosjunit.Ej2_ClasificarEdadTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
