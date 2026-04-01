@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.hugonavarro.ejerciciosjunit.Ej1_SignoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-04-01T15:18:59.883Z" hostname="HugoNavMio" time="0.02">
+<testsuite name="com.hugonavarro.ejerciciosjunit.Ej1_SignoTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-04-01T16:35:27.731Z" hostname="HugoNavMio" time="0.028">
   <properties/>
-  <testcase name="signoMayor()" classname="com.hugonavarro.ejerciciosjunit.Ej1_SignoTest" time="0.02"/>
+  <testcase name="numeroCero()" classname="com.hugonavarro.ejerciciosjunit.Ej1_SignoTest" time="0.02"/>
+  <testcase name="numeroMayor()" classname="com.hugonavarro.ejerciciosjunit.Ej1_SignoTest" time="0.004"/>
+  <testcase name="numeroMenor()" classname="com.hugonavarro.ejerciciosjunit.Ej1_SignoTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
