@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hugonavarro.ejerciciosjunit.Ej6JuegoTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-04-17T18:15:41.284Z" hostname="HugoNavMio" time="0.029">
+  <properties/>
+  <testcase name="empate()" classname="com.hugonavarro.ejerciciosjunit.Ej6JuegoTest" time="0.017"/>
+  <testcase name="datoInvalidoJugador1()" classname="com.hugonavarro.ejerciciosjunit.Ej6JuegoTest" time="0.006"/>
+  <testcase name="datoInvalidoJugador2()" classname="com.hugonavarro.ejerciciosjunit.Ej6JuegoTest" time="0.001"/>
+  <testcase name="jugador1Gana()" classname="com.hugonavarro.ejerciciosjunit.Ej6JuegoTest" time="0.001"/>
+  <testcase name="jugador2Gana()" classname="com.hugonavarro.ejerciciosjunit.Ej6JuegoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
