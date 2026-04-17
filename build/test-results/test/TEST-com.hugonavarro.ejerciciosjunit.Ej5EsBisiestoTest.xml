@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hugonavarro.ejerciciosjunit.Ej5EsBisiestoTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-04-17T17:10:42.185Z" hostname="HugoNavMio" time="0.026">
+  <properties/>
+  <testcase name="noEsDivisiblePor4()" classname="com.hugonavarro.ejerciciosjunit.Ej5EsBisiestoTest" time="0.017"/>
+  <testcase name="esDivisiblePor100()" classname="com.hugonavarro.ejerciciosjunit.Ej5EsBisiestoTest" time="0.004"/>
+  <testcase name="esDivisiblePor400()" classname="com.hugonavarro.ejerciciosjunit.Ej5EsBisiestoTest" time="0.002"/>
+  <testcase name="esDivisiblePor4()" classname="com.hugonavarro.ejerciciosjunit.Ej5EsBisiestoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
