@@ -14,6 +14,10 @@ class Ej6JuegoTest {
         assertThrows(IllegalArgumentException.class, () -> Ej6Juego.jugar("TIJERA", "INVÁLIDO"));
     }
     @Test
+    void datosInvalidosDeAmbosJugadores() {
+        assertThrows(IllegalArgumentException.class, () -> Ej6Juego.jugar("INVÁLIDO", "INVÁLIDO"));
+    }
+    @Test
     void empate() {
         assertEquals("EMPATE", Ej6Juego.jugar("PAPEL", "PAPEL"));
     }
